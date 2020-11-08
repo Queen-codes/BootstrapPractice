@@ -1,0 +1,13 @@
+.container {
+    background-color: aquamarine;
+}
+.container-fluid {
+    background-color: burlywood;
+}
+.row {
+    background-color: chocolate;
+}
+.row div {
+    padding: 20px 20px;
+    border: 1px solid;
+}
